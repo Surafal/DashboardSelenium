@@ -1,3 +1,17 @@
+
+ 
+PS C:\Users\surafal.negere\Desktop\Surafal-Git\DashboardSelenium-main\DashboardSelenium-main> npm install -g npm
+npm error code EAI_AGAIN
+npm error syscall getaddrinfo
+npm error errno EAI_AGAIN
+npm error request to https://registry.npmjs.org/npm failed, reason: getaddrinfo EAI_AGAIN registry.npmjs.org
+npm error A complete log of this run can be found in: C:\Users\surafal.negere\AppData\Local\npm-cache\_logs\2026-07-05T13_31_29_711Z-debug-0.log
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
